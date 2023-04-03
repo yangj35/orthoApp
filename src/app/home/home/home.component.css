@@ -1,0 +1,25 @@
+h1 {
+    color: white;
+    font-family: Nexa, sans-serif;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.home-container {
+    padding-top: 30px;
+    background: #1F2937;
+}
+
+.lefthalf {
+    align-self: center;
+}
+
+.intro {
+    font-family: "Open Sans", sans-serif;
+    color: white;
+}
