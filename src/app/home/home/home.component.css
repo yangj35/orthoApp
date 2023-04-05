@@ -5,18 +5,37 @@ h1 {
     padding-bottom: 20px;
 }
 
-img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
 .home-container {
-    padding-top: 30px;
-    background: #1F2937;
+    background: hsl(215, 28%, 17%);
 }
 
-.lefthalf {
-    align-self: center;
+.pic-paddings {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.pic-container {
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 5;
+    width: 40%;
+    height: 100%;
+    background-color: hsl(202, 79%, 55%, 0.7);
+}
+
+.text-overlay {
+    position: absolute;
+    top: 0;
+    left: 5;
+    width: 40%;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
 }
 
 .intro {
