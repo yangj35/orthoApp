@@ -1,3 +1,8 @@
 body { 
     padding-top: 55px;
 }
+
+.paddings {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
