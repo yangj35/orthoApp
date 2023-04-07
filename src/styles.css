@@ -6,3 +6,7 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+.dark-background {
+    background: hsl(215, 28%, 17%);
+}
